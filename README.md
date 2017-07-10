@@ -6,7 +6,7 @@ At Tidepool, we’re working to build an inclusive company with a value-driven c
 
 This repository contains all of the policies that we use at Tidepool. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
 
-Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own. Note that Tidepool did not use this templatized version because our handbook diverged quite a bit from the original.
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive. ([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own. Note that Tidepool did not use this templatized version because our handbook diverged quite a bit from the original.)
 
 All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
@@ -35,14 +35,14 @@ CEO of Tidepool
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Clef Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Clef%20Offer%20Letter.md)
+* [Tidepool Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Tidepool%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * Protecting Customer Information
 * [Guide to Your Equity](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
+* [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Tidepool.md)
 * [Direct Reports](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Communication and Transparency](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 * [Objectives and Key Results](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)

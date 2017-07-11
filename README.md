@@ -1,14 +1,14 @@
 # Our Handbook
 
-First, a thank you. This Tidepool Employee Handbook is a derivative of the [Clef Employee Handbook](https://github.com/clef/handbook/). Although Clef no longer exists, the fine folks at Clef made their handbook available to all via a Creative Commons license, and for that we are very thankful.
+First, a thank you. This Tidepool Employee Handbook is a derivative of the [Clef Employee Handbook](https://github.com/clef/handbook/). Although Clef no longer exists (sniff, sniff, we loved Clef), the fine folks at Clef made their handbook available to all via a Creative Commons license, and for that we are very thankful.
 
-At Tidepool, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
+At Tidepool, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries (both software and medical devices). It takes active effort to find the hidden biases in our companies and remove them.
 
-This repository contains all of the policies that we use at Tidepool. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
+This repository contains all of the policies that we use at Tidepool. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
 
 Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive. ([mccv](github.com/mccv) has created [a templatized version of the Clef handbook](https://github.com/turbinelabs/handbook-template) to make it easy to use this handbook as a starting point for your own. Note that Tidepool did not use this templatized version because our handbook diverged quite a bit from the original.)
 
-All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
+All feedback and suggestions (especially in the form of pull requests) are  appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
 
 If these policies sound like a place where you want to work, check out our jobs postings at [tidepool.org/jobs](https://tidepool.org/jobs).
 
@@ -26,7 +26,8 @@ CEO of Tidepool
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Salary Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md)
+* [Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Compensation.md)
+* [Employees, Contractors, Interns and Consultants](https://github.com/tidepool-org/handbook/blob/master/Employment%20Categories.md)
 * [Code of Conduct in the Community](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
@@ -73,12 +74,22 @@ CEO of Tidepool
 # Acknowledgements
 
 Here are the folks at Tidepool who reviewed and contributed to this handbook:
-* [Howard Look](https://twitter.com/howardlook)
 * [Brandon Arbiter](https://twitter.com/pancreasingame)
+* [Chris McGee]
+* [Christopher Snider]
+* [Clint Beacock]
+* [Darin Krauss]
+* [Eric Luhrs]
+* [Gerrit Niezen]
+* [Howard Look](https://twitter.com/howardlook)
+* [Jamie Bate]
+* [Lennart Goedhart]
+* [Nick Riggall]
+* [Paul Forgione]
 
 We hope that many more people will suggest ways for us to improve these policies
 
-The first version of this handbook would not have been possible without the thoughtful input from these great folks:
+The first version of the Clef handbook would not have been possible without the thoughtful input from these great folks:
 
 * [Angel Lewis](http://www.allemployerlaw.com/)
 * [Ashe Dryden](http://www.ashedryden.com/)

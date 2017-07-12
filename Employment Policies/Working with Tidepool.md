@@ -20,7 +20,7 @@ Tidepool is a highly distributed team. We currently employ full-time internation
 
 Employment contracts with FTICs are administered indivudally with each contractor. FTICs do not use Zenefits.
 
-Although FTICs do not receive U.S.-based benefits such as health insurance and 401(k), we think of and treat 
+Although FTICs do not receive U.S.-based benefits such as health insurance and 401(k), we think of and treat FTICs the same way we think of and treat full-time U.S.-based employees in all other regards.
 
 ## Part-time Contractors
 
@@ -32,9 +32,9 @@ Part-time contractors typically do not get an @tidepool.org email address or acc
 
 Tidepool hires specialty consultants and firms to help with work in areas where we do not have in-house expertise.
 
-For example, Tidepool works with:
-* DuffLite, our mobile development partner
-* SJR Associates, Sheila Ramerman, our regulatory consultant
+For example, Tidepool currently works with:
+* [DuffLite](dufflite.com), our mobile development partner
+* [SJR Associates](sjrassociates.com), Sheila Ramerman, our regulatory consultant
 
 Contracts are administered individually with these Consultants. 
 

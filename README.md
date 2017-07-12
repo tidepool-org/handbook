@@ -21,9 +21,10 @@ CEO of Tidepool
 
 ## Introduction
 * [Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
-* [Tidepool Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Values.md)
+* [Tidepool's Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Values.md)
 
 ## Employment Policies
+* [Working with Tidepool](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20with%20Tidepool.md)
 * [Equal Opportunity Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
 * [Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Compensation.md)

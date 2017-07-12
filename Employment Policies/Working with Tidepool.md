@@ -34,7 +34,7 @@ Tidepool hires specialty consultants and firms to help with work in areas where 
 
 For example, Tidepool currently works with:
 * [DuffLite](http://dufflite.com), our mobile development partner
-* [SJR Associates](http://sjrassociates.com), Sheila Ramerman, our regulatory consultant
+* [SJR Associates](http://sjrassoc.com), Sheila Ramerman, our regulatory consultant
 
 Contracts are administered individually with these Consultants. 
 

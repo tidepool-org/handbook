@@ -33,8 +33,8 @@ Part-time contractors typically do not get an @tidepool.org email address or acc
 Tidepool hires specialty consultants and firms to help with work in areas where we do not have in-house expertise.
 
 For example, Tidepool currently works with:
-* [DuffLite](dufflite.com), our mobile development partner
-* [SJR Associates](sjrassociates.com), Sheila Ramerman, our regulatory consultant
+* [DuffLite](http://dufflite.com), our mobile development partner
+* [SJR Associates](http://sjrassociates.com), Sheila Ramerman, our regulatory consultant
 
 Contracts are administered individually with these Consultants. 
 

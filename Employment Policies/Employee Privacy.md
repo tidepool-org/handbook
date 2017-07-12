@@ -1,16 +1,8 @@
 # Employee Privacy
 
-## Workspace Privacy
+## Email Privacy
 
-As an employer, it is Tidepool’s goal to monitor or track our employees in as few ways as possible. We want Tidepool employees to feel a sense of ownership towards their personal workspaces and be comfortable at the office. However, in order to ensure the safety and wellbeing of Tidepool employees, company property (e.g. desks, laptops, and other devices) is subject to search. For instance, this might be used if management learns that an employee has brought a gun to work or has stolen company property.
-
-This means that while the company will always try to respect employee privacy, employees do not have a right to privacy in their workspaces in any property that belongs to Tidepool. Tidepool reserves the right to search company property at any time, without warning, to ensure compliance with our policies, including those that cover employee safety, workplace violence, harassment, theft, and possession of prohibited items. If you use a lock on any item of company property, you must give a copy of the key or combination to one of the founders.
-
-## Email and Internet Privacy
-
-Tidepool email and Internet are not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy from either. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
-
-## Email Is Not Private
+Tidepool email is not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
 
 Email messages, including attachments, sent and received from a Tidepool email address are the property of Tidepool. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Tidepool email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
@@ -36,4 +28,4 @@ Employees may not share their email passwords with anyone, including coworkers o
 
 ## Privacy when using Tidepool's Communication Tools
 
-Some Tidepool employees have administrative access to some or all of Tidepool's communication and collaboration tools, including Gooheshgle apps, Tidepool-managed Google accounts, Slack and Trello. We reserve the right to monitor employee use of the Tidepool's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit, the amount of time you spend online, and the communications you have — will be private.
+Some Tidepool employees have administrative access to some or all of Tidepool's communication and collaboration tools, including Tidepool-manage Google apps and accounts, Slack and Trello. We reserve the right to monitor employee use of the Tidepool's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit and the communications you have — will be private.

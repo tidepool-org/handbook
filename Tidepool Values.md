@@ -27,7 +27,7 @@ We operate in a highly regulated space, including FDA, HIPAA, CE and other regul
 
 As a company, we realize that we won't have all of the answers. That means that it's important for us to listen to our users, and iterate often based on their feedback. (See 'Start small and iterate quickly' above.)
 
-It also means that we will make the underlying platform of our software available to other developers and innovators, and allow user to make their data available in whatever form they choose.
+It also means that we will make the underlying platform of our software available to other developers and innovators, and allow users to make their data available in whatever form they choose.
 
 It means that as employees, we embrace others' feedback. We admit our mistakes, are vocally self-critical, and help each other find ways to continue growing and improving over time. We put systems in place to help us improve our processes continuously.
 
@@ -35,6 +35,10 @@ Trust is the currency that powers every interaction on teams. Only when we trust
 
 ## Always put the PwD first.
 
-We have chosen to be a non-profit so that we can always prioritize the needs of the PwD over industry or investor desires.
+We have chosen to be a non-profit so that we can always prioritize the needs of the PwD over industry or investor priorities.
 
-So that we can have the most impact within the diabetes community, we also  generate revenue with the goal of being a self-sustainable non-profit.
+So that we can have the most impact within the diabetes community, we also generate revenue with the goal of being a self-sustainable non-profit.
+
+## Fight the default of exclusion.
+
+Inequality and exclusion are the defaults of our industries (software development and medical devices). Without intentional effort, we will inherit those failings and worsen the problem. Building a diverse team is a moral imperative and we build a better business and product by bringing different perspectives to the table. We look for voices unlike our own because they are the only ones that help us grow.

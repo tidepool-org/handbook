@@ -28,7 +28,6 @@ CEO of Tidepool
 * [Equal Opportunity Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
 * [Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Compensation.md)
-* [Employees, Contractors, Interns and Consultants](https://github.com/tidepool-org/handbook/blob/master/Employment%20Categories.md)
 * [Code of Conduct in the Community](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
@@ -39,8 +38,7 @@ CEO of Tidepool
 * [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
 * [Tidepool Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Tidepool%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* Protecting Customer Information
-* [Guide to Your Equity](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
+* [Protecting Customer Information, HIPAA and more]
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents

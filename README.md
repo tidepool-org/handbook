@@ -22,13 +22,13 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 
 ## Introduction
 * [Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
-* [Tidepool's Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Values.md)
+* [Tidepool's Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Values.md)
 
 ## Employment Policies
 * [Working with Tidepool](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20with%20Tidepool.md)
 * [Equal Opportunity Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
 * [At-Will Employment](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
-* [Compensation](https://github.com/tidepool-org/handbook/blob/master/Employment%20Compensation.md)
+* [Compensation](https://github.com/tidepool-org/handbook/blob/master/Compensation.md)
 * [Code of Conduct in the Community](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Code%20of%20Conduct%20in%20the%20Community.md)
 * [Complaint Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Complaint%20Policy.md)
 * [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)

@@ -53,8 +53,8 @@ After changes have been proposed, discussed, and Howard decides they are ready t
 
 ## Adoption
 
-Everyone at Tidepool needs to digitally 'sign' the [Acknowledgement of Receipt for the Employee Handbook](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
+Everyone at Tidepool needs to digitally 'sign' the [Acknowledgement of Receipt for the Employee Handbook](https://github.com/tidepool/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md), but any change to these documents need to be acknowledged by every employee. Most companies do this on each employee's first day, and then have employees sign another acknowledgement whenever they make a change (because they're rare).
 
 Because we want these policies to constantly improve, we will merge changes as they appear. To make enforcing policy clear and unambiguous, we will adopt the changes at the beginning of each quarter. We will use milestones on Github to mark these canonical versions of the handbook. They will be labeled with the dates that they applied, so if there is ever a question or complaint about a policy violation, it will be clear which policies applied on which dates at Tidepool.
 
-Everyone at Tidepool will need to digitall 'sign' an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt%20of%20Changes.md) for each quarter that there are changes.
+Everyone at Tidepool will need to digitally 'sign' an [Acknowledgement of Receipt of Changes to the Employee Handbook](https://github.com/tidepool/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt%20of%20Changes.md) for each quarter that there are changes.

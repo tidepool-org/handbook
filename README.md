@@ -18,6 +18,7 @@ CEO of Tidepool
 
 ***
 
+Everything in this section has been "Tidepool-ized" and is ready for review.
 
 ## Introduction
 * [Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
@@ -41,6 +42,22 @@ CEO of Tidepool
 * [Protecting Customer Information, HIPAA and more]
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
+
+## Benefits and Perks
+* [Health Care and Disability Insurance](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Vacation and Sick Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
+* [Referral Bonuses](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
+* [Continuing Education](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Sabbatical](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [New Parent Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [Other Protected Absences](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+
+
+***
+
+Everything in this section is still in it's prior Clef form, or is a work in progres...
+
 ## Onboarding Documents
 * [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Tidepool.md)
 * [Direct Reports](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
@@ -58,17 +75,7 @@ CEO of Tidepool
 * [Onboarding](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Onboarding.md)
 * [Sharing Files](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
-## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
-* [Vacation and Sick Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
-* [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
-* [Referral Bonuses](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)
-* [Continuing Education](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
-* [Sabbatical](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
-* [New Parent Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
-* [Other Protected Absences](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
-
-
+***
 
 # Acknowledgements
 

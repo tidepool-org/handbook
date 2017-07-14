@@ -1,9 +1,11 @@
 # Vacation and Sick Leave
 
-Taking time off and recharging is critical to doing your best work at Clef, so in addition to the recognized [Holiday List](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), Clef offers 3 weeks (15 days) of paid vacation every year that accrues 1.25 of a day per month of work. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.
+Taking time off and recharging is critical to doing your best work at Tidepool, so in addition to the recognized [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), Tidepool wants you to take whatever vacation time you need in order to maintain a balanced life while still fulfilling your responsibilities at Tidepool. Vacation time does not accrue at Tidepool.
 
-Employees also accrue 1 hour of sick leave for every 30 hours of work, but cannot accrue more than 5 days of sick leave.
+Employees often ask "Well, in general about how much vacation time do people take?" Historically, the answer has been "about three weeks per year," though sometimes it's more and sometimes less. We sometimes try to coordinate our time off; for example, most people take off the week between Christmas and New Years Day (though some people still need to work, such as to provide ops coverage or customer support).
 
-Employees should report vacation and sick days to the founder they report to, who will mark it in the payroll system (which keeps track of accrued days and should include them on every pay stub).
+Tidepool does not accrue "sick days." If you are sick and unable to work, take the time you need to become healthy. If you think it will become an extended absense, please talk to Howard about it.
 
-Employees with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, disability leave and/or other support.
+Due to the nature of our business and mission, many of our employees are living with or have a family member living with a chronic disease. We understand that sometime you may need to take time off in order to take care of yourself or a family member.
+
+So in short, our vacation and sick leave policy is: We have no policy. We trust you. Take what time you need to lead a balanced and healthy life, so that when you are working you are productive, energetic and inspiring others on the team to do the same.

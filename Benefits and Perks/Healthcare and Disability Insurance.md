@@ -1,9 +1,19 @@
-# Healthcare and Disability Insurance
+# Healthcare, Disability Insurance and other benefits.
 
-Clef’s priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.
+The following applies to full-time U.S.-based employees.
 
-We offer medical, dental, and vision coverage at Clef for employees and their dependents. Through TriNet, many plans are available to all employees, and Clef has chosen a baseline plan for which it contributes 85% of the cost for all employee policies and 50% for dependents. The available plans range in cost, and if employees choose a plan that is more expensive than the baseline plan, they will be responsible for the difference. All employees are eligible for coverage on the first of the month following their hire date. These policies are all managed through TriNet, which is where you can find more details about the plans, costs, and coverage.
+Tidepool's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance. Because of our mission, many of our employees have a personal connection to a chronic illness. Therefore, we strive to provide a full-featured health plan that mimimizes deductables and out-of-pocket expenses and avoids lifetime caps.
 
-All employees receive Short Term Disability Insurance and Long Term Disability Insurance. All employees are also covered by Death and Dismemberment Insurance coverage at one times earnings (with some age restrictions that start at age 65).
+We offer medical, dental, and vision coverage at Tidepool for full-time U.S.-based employees and their dependents. All full-time US employees receive Short Term Disability Insurance and Long Term Disability Insurance.
 
-Clef offers a medical waiver allowance of $25 per month for employees who have other medical coverage and choose to waive medical coverage through TriNet.
+Our current medical plan is provided through Blue Shield of California:
+* Plan name: Platinum Full PPO 0/10 OffEx
+* Calendar Year Medical Deductible: $0
+* Calendar Year Out of Pocket Maximum:
+    * Participating providers: $2,500 per individual / $5,000 per family
+    * Non-participating providers: $5,000 per individual / $10,000 per family
+* Lifetime Benefit Maximum: None
+
+Employees are also eligible to participate in a Flexible Spending Account (FSA). Tidepool will match contributions to the FSA dollor-for-dollar up to $2500.
+
+Employees may contribute to a 401(k) retirement savings plan. Tidepool currently does not offer contribution matching.

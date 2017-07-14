@@ -1,4 +1,9 @@
-# Clef Observed Holiday List
+# Tidepool Likely Holiday List
+
+
+Tidepool employs people around the world. This list of US Holidays is presented as general guidance of the days that US-based employees will likely take off. However, some people may choose to work, and international employees may take different days off.
+
+Like our vacation non-policy, the guidance is: We trust you. There is no policy.
 
 <table>
   <tr>
@@ -14,10 +19,6 @@
     <td>February 16</td>
   </tr>
   <tr>
-    <td>Cesar Chavez Day</td>
-    <td>March 31</td>
-  </tr>
-  <tr>
     <td>Memorial Day</td>
     <td>Last Monday in May</td>
   </tr>
@@ -30,14 +31,6 @@
     <td>First Monday in September</td>
   </tr>
   <tr>
-    <td>Indigenous People’s Day</td>
-    <td>Second Monday in October</td>
-  </tr>
-  <tr>
-    <td>Veterans Day</td>
-    <td>November 11</td>
-  </tr>
-  <tr>
     <td>Thanksgiving Day and Friday</td>
     <td>Fourth Thursday in November and following Friday</td>
   </tr>
@@ -48,6 +41,10 @@
   <tr>
     <td>Christmas Day</td>
     <td>December 25</td>
+  </tr>
+   <tr>
+    <td>New Years Eve</td>
+    <td>December 31</td>
   </tr>
 </table>
 

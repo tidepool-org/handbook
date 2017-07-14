@@ -1,4 +1,4 @@
-# Vacation and Sick Leave
+# Vacation and Sick Leave Non-Policy
 
 Taking time off and recharging is critical to doing your best work at Tidepool, so in addition to the recognized [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), Tidepool wants you to take whatever vacation time you need in order to maintain a balanced life while still fulfilling your responsibilities at Tidepool. Vacation time does not accrue at Tidepool.
 

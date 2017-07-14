@@ -42,9 +42,8 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 * [Protecting Customer Information, HIPAA and more]
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
-
 ## Benefits and Perks
-* [Health Care and Disability Insurance](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Health Care and Disability Insurance](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Health%20Insurance%20and%20Other%20Benefits.md)
 * [Vacation and Sick Leave](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
 * [Holiday List](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
 * [Referral Bonuses](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Referral%20Bonuses.md)

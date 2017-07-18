@@ -34,12 +34,12 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 * [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
 * [Employee Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
 * [Working Remotely](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
+* [Confidentiality and Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Confidentiality%20andPrivacy.md)
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
 * [Tidepool Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Tidepool%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
-* [Protecting Customer Information, HIPAA and more]
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Benefits and Perks
@@ -92,7 +92,7 @@ Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Nick Riggall]
 * [Paul Forgione]
 
-We hope that many more people will suggest ways for us to improve these policies
+We hope that many more people will suggest ways for us to improve these policies!
 
 The first version of the Clef handbook would not have been possible without the thoughtful input from these great folks:
 

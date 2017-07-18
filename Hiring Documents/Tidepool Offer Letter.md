@@ -1,4 +1,4 @@
-U.S. employees will be presented their offer letter via Zenefits. Conractors (both U.S. and international) will receive their contracts via email. Below is the template for the U.S. employee offer letter, presented here for your convenience.
+U.S. employees will be presented their offer letter via Zenefits. Contractors (both U.S. and international) will receive their contracts via email. Below is the template for the U.S. employee offer letter, presented here for your convenience.
 
 TIDEPOOL PROJECT
 555 Bryant St., #429

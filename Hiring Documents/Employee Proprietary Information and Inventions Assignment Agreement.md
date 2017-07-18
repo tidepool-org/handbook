@@ -1,4 +1,4 @@
-# Tidepool Employment, Condidential Information and Inventions Assignment Agreement
+# Tidepool Employment, Confidential Information and Inventions Assignment Agreement
 
 This agreement will be presented to you via Zenefits during your onboarding process. It is shown here for your convenience.
 

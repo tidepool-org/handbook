@@ -6,4 +6,4 @@ Employees should give the rest of the team as much notice as possible before the
 
 Paid time off of any kind, including New Parent Leave, does not accrue.
 
-In California, State Disability Insurance and Paid Family Leave programs will pay part of an employees salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so Tidepool will supplement them to maintain the employee's salary instead of paying the full salary on top of them.
+In California, State Disability Insurance and Paid Family Leave programs will pay part of an employee's salary who are unable to work due to pregnancy and childbirth. It is illegal for an employer to overpay an employee while they are using those programs, so Tidepool will supplement them to maintain the employee's salary instead of paying the full salary on top of them.

@@ -1,6 +1,6 @@
 # Working with Tidepool
 
-There are several categories of people who may work with or interact with Tidepool. In general, the policies in this Tidepool Employee Handbook apply to everyone except 'Volunteers and Other Contributors'. Exceptions to this, such as Benefits for Full-time U.S. employees, are noted where appropriate.
+There are several categories of people who may work with or interact with Tidepool. In general, the policies in this Tidepool Employee Handbook apply to everyone except "Volunteers and Other Contributors". Exceptions to this, such as Benefits for Full-time U.S. employees, are noted where appropriate.
 
 Here is a brief description of the different kinds of people who work with Tidepool:
 
@@ -16,9 +16,9 @@ Part-time U.S.-based employees work fewer than 30 hours per week, and are not el
 
 ## Full-time International Contractors (FTICs, for short)
 
-Tidepool is a highly distributed team. We currently employ full-time international contractors in Austrialia, Canada, New Zealand, and the U.K..
+Tidepool is a highly distributed team. For example, we currently employ full-time international contractors in Austrialia, Canada, New Zealand, and the U.K..
 
-Employment contracts with FTICs are administered indivudally with each contractor. FTICs do not use Zenefits.
+Employment contracts with FTICs are administered individually with each contractor. FTICs do not use Zenefits.
 
 Although FTICs do not receive U.S.-based benefits such as health insurance and 401(k), we think of and treat FTICs the same way we think of and treat full-time U.S.-based employees in all other regards.
 
@@ -33,8 +33,9 @@ Part-time contractors typically do not get an @tidepool.org email address or acc
 Tidepool hires specialty consultants and firms to help with work in areas where we do not have in-house expertise.
 
 For example, Tidepool currently works with:
-* [DuffLite](http://dufflite.com), our mobile development partner
-* [SJR Associates](http://sjrassoc.com), Sheila Ramerman, our regulatory consultant
+* [DuffLite](http://dufflite.com) - our mobile development partner
+* [SJR Associates](http://sjrassoc.com) - Sheila Ramerman, our regulatory consultant
+* [Early Growth Financial Services](http://earlygrowthfinancialservices.com/) - Sirk Roh (CFO) and Tina Gregory (accountant)
 
 Contracts are administered individually with these Consultants. 
 
@@ -53,5 +54,10 @@ Volunteers who are producing and contributing source code, user interface design
 ## Pro-bono arrangements
 
 Occasionally, Tidepool is offered pro bono services for which we are very grateful! Tidepool currently works and receives pro bono services from:
-* [Wilson, Marshall and Taylor](http://wmtlaw.com/) - legal servcies, Kurt Taylor, General Counsel and Board Secretary
+* [Wilson, Marshall and Taylor](http://wmtlaw.com/) - legal services, Kurt Taylor, General Counsel and Board Secretary
 * [Pillsbury Winthrop Shaw Pittman](https://www.pillsburylaw.com/en/) - legal services
+
+In the past, Tidepool has also received pro bono services from:
+* [Barrel NY](https://www.barrelny.com/) - web design
+* [A Hundred Monkeys](http://www.ahundredmonkeys.com/) - naming and branding
+* [Greenberg Traurig](https://www.gtlaw.com/en) - legal services

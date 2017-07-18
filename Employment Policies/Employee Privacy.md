@@ -2,7 +2,7 @@
 
 ## Email Privacy
 
-Tidepool email is not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage for both in order to protect employee safety and wellbeing, as well as company property and interests.
+Tidepool email is not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage to protect both employee safety and wellbeing, as well as company property and interests.
 
 Email messages, including attachments, sent and received from a Tidepool email address are the property of Tidepool. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Tidepool email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 
@@ -28,4 +28,4 @@ Employees may not share their email passwords with anyone, including coworkers o
 
 ## Privacy when using Tidepool's Communication Tools
 
-Some Tidepool employees have administrative access to some or all of Tidepool's communication and collaboration tools, including Tidepool-manage Google apps and accounts, Slack and Trello. We reserve the right to monitor employee use of the Tidepool's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit and the communications you have — will be private.
+Some Tidepool employees have administrative access to some or all of Tidepool's communication and collaboration tools, including Tidepool-managed Google apps and accounts, Slack, Trello, and HelpScout. We reserve the right to monitor employee use of the Tidepool's communication tools at any time. You should not expect that your use of these communication tools, including but not limited to the sites you visit and the communications you have, will be private.

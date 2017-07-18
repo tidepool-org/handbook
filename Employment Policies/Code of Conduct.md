@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct applies to all community members and Tidepool team members in all Tidepool communities online (including but not limited to Tidepool's internal and external Slack groups, Twitter, Facebook and Instagram), while working in the Tidepool office or remotely, and at all events hosted by Tidepool.
+This code of conduct applies to all community members and Tidepool team members in all Tidepool communities online (including but not limited to Tidepool's internal and external Slack groups, Twitter, Facebook and Instagram), while working in the Tidepool office or remotely, at all events hosted by Tidepool, at diabetes community and industry events attended by a Tidepool employee, whether or not directly representing Tidepool.
 
 Tidepool is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, medical condition, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 

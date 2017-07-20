@@ -53,6 +53,13 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 * [Other Protected Absences](https://github.com/tidepool-org/handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 
+## Operations Documents
+* [Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
+* [Interview Process](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
+* [Finances](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Finances.md)
+* [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
+* [Onboarding](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Onboarding.md)
+
 ***
 
 Everything in this section is still in it's prior Clef form, or is a work in progres...
@@ -66,13 +73,6 @@ Everything in this section is still in it's prior Clef form, or is a work in pro
 * [Product Manifesto](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
 * [Effective Meetings](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
-## Operations Documents
-* [Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
-* [Interview Process](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
-* [Budgeting](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Budgeting.md)
-* [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
-* [Onboarding](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Onboarding.md)
-* [Sharing Files](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Sharing%20Files.md)
 
 ***
 

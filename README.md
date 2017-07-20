@@ -54,7 +54,7 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 
 
 ## Operations Documents
-* [Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Sourcing%20Candidates.md)
+* [Diversity and Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Diversity%20and%20Sourcing%20Candidates.md)
 * [Interview Process](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 * [Finances](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Finances.md)
 * [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)

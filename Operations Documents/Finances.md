@@ -15,7 +15,10 @@ Like all startups, Tidepool is attempting to minimize expenses as much as possib
 The executives (CEO and VPs) have Tidepool business debit cards; if you need to purchase something, just ask one of us.
 
 **All that we ask when it comes to spending is that you be reasonably frugal, but don't be "frupid."** Some guidance:
-* When you book travel, please use Kayak or a similar service and look for good fares. If you have a long flight, it's OK to book an "extra room" seat in coach so that you can get work done. Don't eat at super-fancy 4-star restaurants
+* When you book travel, please use Kayak or a similar service and look for good fares. If you have a long flight, it's OK to book an "extra room" seat in coach so that you can get work done. Don't eat at super-fancy 4-star restaurants or take town cars everywhere. Just be reasonable.
 * Online services that save us time and effort are totally worth the money. We subscribe to a bunch of them: GitHub, Slack, Trello, DataDog, PagerDuty to name a few.
+* Tidepool doesn't pay for home internet connections (nor for electricty or water or garbage service, for that matter). Having a fast internet connection at home for work and personal use is routine these days.
+* If you are a full-time U.S. Employee, Tidepool will purchase a laptop and an external monitor for you if you need one. 
 
 We use bill.com to do expense reimbursement. If you have expenses that need to be reimbursed, send the receipts as a PDF to " tidepool.org (at) bill.com ". Employees that incur a lot of expenses may wish to set up an account with Expensify to make it easy to track expenses, but it is not required. Expense reports should still be submitted to bill.com.
+

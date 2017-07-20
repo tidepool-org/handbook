@@ -1,7 +1,7 @@
 
 # Why Diversity is Important
 
-A diverse team brings diverse perspectives, and diverse perspectives help us build better products and deliver on our mission more fully. D
+A diverse team brings diverse perspectives, and diverse perspectives help us build better products and deliver on our mission more fully.
 
 Diversity takes many forms: We are focused on building diabetes software, so certainly hiring people with a personal connection to diabetes is a big win. But people not living with diabetes also have great perspectives on building great software, building great processes and being a great company. Diversity also includes gender, race, ethnicity, sexual orientation, policitcal views and much more. By having a broad variety of perspectives we can build better software and a better company that meets the needs of the diverse population we serve.
 

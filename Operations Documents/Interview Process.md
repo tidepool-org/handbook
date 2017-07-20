@@ -25,7 +25,7 @@ This interview should also focus on selling Tidepool and recruiting promising ca
 
 # Technical and Team Fit Interviews
 
-After the initial screen, each candidate should talk to at least 3 other team members for 45-60 minutes each. These can be done indidually or jointly.
+After the initial screen, each candidate should talk to at least 3 other team members for 45-60 minutes each. These can be done individually or jointly.
 
 For technical candidates, at least two technical interviews should be done, focusing both on specific project work as well as high-level thinking.
 

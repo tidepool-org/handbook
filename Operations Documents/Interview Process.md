@@ -15,7 +15,7 @@ The hiring manager should make sure the Trello card for each candidate includes:
 * A link to the job description at tidepool.org/jobs.
 * Recommendations for what each interviewer should focus on.
 
-## Initial Screen — 30-60 Minutes
+## Initial Screen
 
 A resume or online profile can tell us a lot about what a candidate has done, but the first thing we need to find out is what they want to do next, and whether that matches what we’re looking for at Tidepool. This interview can happen over the phone, via Google Hangout, or at a coffee shop.
 
@@ -23,7 +23,7 @@ The idea is to spend 30-60 minutes getting to know the candidate and letting the
 
 This interview should also focus on selling Tidepool and recruiting promising candidates, as this is their first real contact with Tidepool and their desire to work here will be formed in this meeting.
 
-# Technical and Team Fit Interviews
+## Technical and Team Fit Interviews
 
 After the initial screen, each candidate should talk to at least 3 other team members for 45-60 minutes each. These can be done individually or jointly.
 

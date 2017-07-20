@@ -21,8 +21,8 @@ CEO of Tidepool
 Everything in this section has been "Tidepool-ized" and is ready for review.
 
 ## Introduction
-* [Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
-* [Tidepool's Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Values.md)
+* [Tidepool's Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
+* [Tidepool's Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Core%20Values.md)
 
 ## Employment Policies
 * [Working with Tidepool](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20with%20Tidepool.md)

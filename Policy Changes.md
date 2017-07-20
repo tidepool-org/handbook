@@ -17,7 +17,7 @@ However, our internal processing does not need to happen on Github. Anyone shoul
 Here is an internal Trello board at https://trello.com/b/inYdKaBA that lists the current areas of interest, research, and proposals. This is where we can track the currently active internal discussions. If anyone has an issue they would like to start discussing, they can add a card to that board.
 
 ### Google Docs
-Proposals should be written in Google Docs and linked to on the Trello board. There is a folder in “HR - Public to Tidepool” for ‘Employee Handbook'. Within there is a 'Proposals' folder which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
+Proposals should be written in Google Docs and linked to on the Trello board. There is a folder in “HR - Public to Tidepool” for "Employee Handbook". Within there is a "Proposals" folder which will hold the documents for research being done and proposals being written. This folder will be accessible to everyone internally, but will not be public.
 
 ### Twitter
 

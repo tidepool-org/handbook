@@ -32,8 +32,6 @@ If you're working remotely or from home, you should put a calendar event indicat
 
 ### Slack
 
-
-
 #### Slack Status
 
 There are 4 states in which a teammate can be in on Slack:
@@ -41,7 +39,7 @@ There are 4 states in which a teammate can be in on Slack:
 1. *Active (green)*. Similar to when someone is sitting at their desk in the office, they are considered available and can be expected to respond in the range of a few minutes to an hour.
 2. *Do not disturb (green)*. This teammate is at their computer, but focusing. Expect a response when they are done with whatever they are focusing on, but don't wait for them.
 3. *Do not disturb (gray). *This teammate is away from their computer and off work. Expect a response the next work day.
-4. *Away*. This teammate is off work or temporarily away. Check the #office channel — when a user goes away, whether it's during their work day or when the day is ending, they should post a message letting the team know they are stepping out. If they posted a message in #office saying they were stepping away but coming back, expect a response when they get back. If they posted a message saying they were done for the day, you should expect a response the next work day. 
+4. *Away*. This teammate is off work or temporarily away. Check the #ooo-afk channel, or check the Tidepool OOO calendar. When a user goes away, they should post a message letting the team know they are stepping out. If they posted a message in #ooo-afk saying they were stepping away but coming back, expect a response when they get back.
 
 Obviously, edge cases exist, but it's important that on both ends of our communication (both asking and responding) we uphold these expectations so that everyone on our team can plan their work effectively.
 
@@ -66,3 +64,23 @@ We have a #metrics Slack channel for this purpose.
 ### We Succeed Together When We Trust Each Other
 
 Communication and negotiation among groups of people is difficult, but the more honest we can be with each other, the easier it will be for us to trust one another and work together as a team. Openness and honesty will be critical to our success, which is why this is one of our core values, and why it’s a mantra we repeat in many conversations.
+
+## Org Charts and Direct Reports
+
+At Tidepool, we're still tiny and we're not so big on org charts, so you won't fine one here.
+
+In general, everyone at Tidepool either reports to Howard or to Brandon. Folks working on QA and Customer Support report to Brandon, and everyone else (engineering and design) reports to Howard.
+
+## Providing Feedback
+
+Not that who works for whom matters much...
+
+Since we value openness and transparency, you are as likely to get direction or feedback from Howard and Brandon as you are from one of your peers. We depend on that. **If you have feedback for someone, please just give it to them.** Be polite and honest. It's not a big deal, and they will appreciate it. As a general rule, if you have feedback for someone, it's your responsibility to give it to them directly - it's not OK to talk about someone else without also being willing to talk to them directly.
+
+**Always assume good intent** as you think about the feedback you would like to give someone. We are all in this together. Especially with remote teams, where we don't see each other in person as often, it can be especially challenging to pick up on nuances in communication style. Written communication in particular can be tricky. Go out of your way in your communication to think about how someome might interpret (or misinterpret) what you are saying.
+
+Also be sure to thank and congratulate folks when you think they are doing great work, too. The more the better. Doing it in public, like at the Daily Standup or in Slack, is the best.
+
+If you are uncomfortable providing feedback to someone directly, please talk to Howard or Brandon about it.
+
+We don't currently do any form of official performance review. Frankly we have yet to find a system that we think works better than "always share your feedback directly with people." Do it early, and often, and do it constructively.

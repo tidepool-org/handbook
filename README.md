@@ -60,19 +60,11 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 * [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)
 * [Onboarding](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Onboarding.md)
 
-***
-
-Everything in this section is still in it's prior Clef form, or is a work in progres...
-
 ## Onboarding Documents
 * [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Tidepool.md)
-* [Direct Reports](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Communication and Transparency](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
-* [Objectives and Key Results](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)
 * [One on Ones](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/One%20on%20Ones.md)
-* [Product Manifesto](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Product%20Manifesto.md)
 * [Effective Meetings](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
-
 
 ***
 

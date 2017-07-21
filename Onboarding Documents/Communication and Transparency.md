@@ -6,18 +6,17 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ## Communication
 
-### Friday #Updates
+### Daily Standups and WorkingOn
 
-Every Friday, everyone on the team posts an update in the #updates channel in Slack that includes:
+We keep everyone up to date on what we are working on using [WorkingOn](https://workingon.co). 
 
-* What they accomplished this week
-* What they hope to accomplish next week
+We also meet briefly every day at our Daily Standup meeting. At this meeting, you don't need to rehash everything that you've already put into WorkingOn, you should just highlight issues that are notable, or any impediments or dependencies that you have.
 
 This makes it easy to keep in the loop on projects and also keeps everyone at Tidepool accountable to everyone else to do their part.
 
-### Pro-active checkins
+### Pro-active checkins and OOO-AFK
 
-When we're all in the office, it's easy to see when a teammate is around or available. When an individual is out of the office, this visibility immediately drops to 0.  When we're working remotely, it's our responsibility to let our teammates know when we're around and available. 
+Since we are highly distributed, it's our responsibility to let our teammates know when we're around and available. We have a Slack channel called "ooo-afk" for this purpose. It stands for "Out of Office, or Away from Keyboard."
 
 **Doing this is as easy as posting a message in Slack to say when you drop in or leave.**
 
@@ -33,9 +32,7 @@ If you're working remotely or from home, you should put a calendar event indicat
 
 ### Slack
 
-#### Slack Names
 
-Slack names are an easy way to communicate where you are located and when you are away from your desk. If you are working from home, taking PTO, or sick, you should update your Slack last name to reflect name to reflect this.
 
 #### Slack Status
 
@@ -54,7 +51,7 @@ Obviously, edge cases exist, but it's important that on both ends of our communi
 
 Almost all Slack conversation should happen in public Slack channels where the rest of the team can see it. You may not subscribe to or pay attention to every channel, but conversations that happen in public channels are searchable and readable by the whole team, so when someone wants to know how we decided on some course of action, Slack gives them a place to look back at the conversation.
 
-Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly. Currently about 60% of our conversations happen in public channels, which is a number we hope will keep growing.
+Not every ping or question needs to happen publicly, but when in question, you should err on the side of posting publicly.
 
 ### Public Calendars
 
@@ -62,7 +59,9 @@ Work calendars should be shared to make scheduling meetings really easy and also
 
 ### Open Stats
 
-When we measure something, it should be visible to everyone on the team. Our stats will be great sometimes and disappointing others, but when we hide or silo the hard stats, fewer people can help fix them. We’ll try to keep the most critical stats posted in the office, but any data that we’re collecting should be open to everyone.
+When we measure something, it should be visible to everyone on the team. Our stats will be great sometimes and disappointing others, but when we hide or silo the hard stats, fewer people can help fix them. Any data that we’re collecting should be open to everyone.
+
+We have a #metrics Slack channel for this purpose.
 
 ### We Succeed Together When We Trust Each Other
 

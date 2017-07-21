@@ -1,5 +1,9 @@
-# Direct Reports
+# Org Charts, Direct Reports and Providing Feedback
 
-Everyone who works at Clef should report to Mark, Jesse, or B. The goal of this relationship is to provide support and guidance to the employee -- this is the person they will talk to about their goals, meet with regularly, and go to first with questions. We are not doing any official performance reviews yet, but this is also the relationship where employees will get feedback on how they are doing and areas where they can improve.
+At Tidepool, we're still tiny and we're not so big on org charts, so you won't fine one here.
 
-These relationships are one to one and are not meant to divide the company into teams. Though we certainly have distinct business functions, we should all try to operate as a single unit wherever possible. At this size, Clef’s organization doesn’t need to go any deeper than this first level, so everyone should feel as if they are on even footing.
+In general, everyone at Tidepool either reports to Howard or to Brandon. Folks working on QA and Customer Support report to Brandon, and everyone else (engineering and design) reports to Howard.
+
+Not that it matters much. Since we value openness and transparency, you are as likely to get direction or feedback from Howard and Brandon as you are from one of your peers. We depend on that. **If you have feedback for someone, please just give it to them.** Be polite and honest. It's not a big deal, and they will appreciate it. As a general rule, if you have feedback for someone, it's your responsibility to give it to them directly - it's not OK to talk about someone else without also being willing to talk to them directly. Also be sure to thank and congratulate folks when you think they are doing great work, too. The more the better.
+
+We are not doing any official performance reviews yet. Frankly we have yet to find a system that we think works better than "always share your feedback directly with people." Do it early, and often, and do it constructively.

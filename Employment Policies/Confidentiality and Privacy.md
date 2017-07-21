@@ -17,9 +17,9 @@ Even with our commitment to openness, we don't make everything public. For examp
 * **Meeting notes**: We take copious meeting notes that we keep private, for both internal and external meetings.
 * **Hiring**: Information about interview candidates, including notes taken during the interview process, we keep private.
 
-And, of course, we keep all of our user's Protected Health Information (PHI) confidential. As part of your onboarding, and then each year thereafter, you will be required to read HIPAA training and to undergo an audit of your computer and mobile devices. Our publicly available HIPAA training materials and audit template documents are here.
+And, of course, we keep all of our user's Protected Health Information (PHI) confidential. As part of your onboarding, and then each year thereafter, you will be required to read HIPAA training and to undergo an audit of your computer and mobile devices. Our publicly available HIPAA training materials and audit template documents are [here](https://drive.google.com/open?id=0B_hEFGzOB67gSERseGFTem92SW8).
 
-In general, unless your job requires you to do so (e.g., for a project, or for debugging a specific issue, or for providing customer support), you should never make copies or publicly reveal any of our user's info, including names, email addresses or anything they store in their Tidepool account (on prd or int - which house our HIPAA-compliant data).
+In general, unless your job requires you to do so (e.g., for a project, or for debugging a specific issue, or for providing customer support), **you should never make copies or publicly reveal any of our user's info, including names, email addresses or anything they store in their Tidepool account (on prd or int - which house our HIPAA-compliant data).**
 
 It may not always be obvious what is and is not confidential. If you are ever unsure, it's always best to assume that it is confidential and ask the Chief Privacy Officer (currently Howard).
 

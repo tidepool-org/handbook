@@ -26,10 +26,6 @@ It's also a good idea to be proactive about letting teammates know what you're w
 
 With increased individual flexibility, since we're all working at the same time less, it's important to go above and beyond in letting people know when we are around.
 
-### Calendar Updates
-
-If you're working remotely or from home, you should put a calendar event indicating where you are working from for all the time you are out of the office.
-
 ### Slack
 
 #### Slack Status
@@ -54,6 +50,10 @@ Not every ping or question needs to happen publicly, but when in question, you s
 ### Public Calendars
 
 Work calendars should be shared to make scheduling meetings really easy and also to let the rest of the team see where we’re spending our time. Personal calendars often have sensitive information, and should be kept separate. Work calendars are documentation of how we’re budgeting our hours and are useful for the rest of the team.
+
+There is also a Tidepool OOO calendar. If you are going to be out for more than a few hours, please mark it on the
+
+A subscrition link to the Tidepool OOO Calendar can be found on the [Emp: Tidepool Resources](https://trello.com/b/0tbitS80/emp-tidepool-resources) Trello board.
 
 ### Open Stats
 

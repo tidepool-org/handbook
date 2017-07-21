@@ -4,4 +4,4 @@ Our priority at Tidepool is to create a safe, comfortable, and productive enviro
 
 Alcohol may be served at Tidepool events, such as at team dinners or at Tidepool team offsites. **It is the responsibility of every employee to ensure that their individual consumption is not making anyone else feel uncomfortable or unsafe.** Employees who violate this policy may face disciplinary action, up to and including termination.
 
-Illegal drugs should not be used, bought, sold, or distributed while working either in the office or remotely while representing Tidepool.
+Illegal drugs should not be used, bought, sold, or distributed while working either in the office or remotely while representing Tidepool. For the purposes of this handbook, "illegal" shall mean as defined by the local laws where you are working or representing Tidepool (e.g., the laws of the State of California, if you are working in California).

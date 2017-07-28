@@ -6,7 +6,7 @@ We believe that people with diabetes, PwDs for short, own their health data, inc
 
 ## We operate with openness and transparency.
 
-As a company, we will operate openly and transparently. We will not keep secrets unless there is a good reason to do so, such as to maintain our users' privacy.
+As a company, we will operate openly and transparently. We will not keep secrets or hide information unless there is a good reason to do so, such as to maintain our users' privacy.
 
 This includes things like:
 * Open source code
@@ -44,4 +44,4 @@ So that we can have the most impact within the diabetes community, we also gener
 Inequality and exclusion are the defaults of our industries (software development and medical devices). Without intentional effort, we will inherit those failings and worsen the problem. Building a diverse team is a moral imperative and we build a better business and product by bringing different perspectives to the table. We look for voices unlike our own because they are the only ones that help us grow.
 
 ## Focus on diabetes software.
-Tidepool is a diabetes software company, so we direct our innovation energy on challenges specific to diabetes software, diabetes visualizations, diabetes data liberation, and diabetes data management. We leverage existing technical solutions and designs to avoid duplication of effort.
+Tidepool is a diabetes software company, so we direct our energy on challenges specific to diabetes software, diabetes visualizations, diabetes data liberation, and diabetes data management. We leverage existing technical solutions and designs to avoid duplication of effort.

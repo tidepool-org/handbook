@@ -18,8 +18,6 @@ CEO of Tidepool
 
 ***
 
-Everything in this section has been "Tidepool-ized" and is ready for review.
-
 ## Introduction
 * [Tidepool's Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md)
 * [Tidepool's Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Core%20Values.md)
@@ -34,7 +32,7 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 * [Drug and Alcohol Policy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Drug%20and%20Alcohol%20Policy.md)
 * [Employee Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Employee%20Privacy.md)
 * [Working Remotely](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Working%20Remotely.md)
-* [Confidentiality and Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Confidentiality%20andPrivacy.md)
+* [Confidentiality and Privacy](https://github.com/tidepool-org/handbook/blob/master/Employment%20Policies/Confidentiality%20and%20Privacy.md)
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
@@ -73,12 +71,13 @@ Everything in this section has been "Tidepool-ized" and is ready for review.
 Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Brandon Arbiter](https://twitter.com/pancreasingame)
 * [Chris McGee]
-* [Christopher Snider]
+* [Christopher Snider](https://twitter.com/iamspartacus)
 * [Clint Beacock]
 * [Darin Krauss]
 * [Eric Luhrs]
 * [Gerrit Niezen]
 * [Howard Look](https://twitter.com/howardlook)
+* [Jana Beck]
 * [Jamie Bate]
 * [Lennart Goedhart]
 * [Nick Riggall]

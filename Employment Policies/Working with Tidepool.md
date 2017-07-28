@@ -16,7 +16,7 @@ Part-time U.S.-based employees work fewer than 30 hours per week, and are not el
 
 ## Full-time International Contractors (FTICs, for short)
 
-Tidepool is a highly distributed team. For example, we currently employ full-time international contractors in Austrialia, Canada, New Zealand, and the U.K..
+Tidepool is a highly distributed team. For example, we currently employ full-time international contractors in Australia, Canada, New Zealand, and the United Kingdom.
 
 Employment contracts with FTICs are administered individually with each contractor. FTICs do not use Zenefits.
 
@@ -49,7 +49,7 @@ Interns receive their offer letters through Zenefits, and are paid hourly.
 
 Tidepool often engages with volunteers, most typically with software developers as Open Source contributors, but sometimes also with volunteer program managers, user experience designers or beta testers.
 
-Volunteers who are producing and contributing source code, user interface designs will be asked to complete Tidepool's [Volunteer Contributor License Agreement (VCLA)](http://developer.tidepool.io/contributors/).
+Volunteers who are producing and contributing source code or user interface designs will be asked to complete Tidepool's [Volunteer Contributor License Agreement (VCLA)](http://developer.tidepool.io/contributors/).
 
 ## Pro-bono arrangements
 

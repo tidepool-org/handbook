@@ -2,7 +2,7 @@
 
 ## Email Privacy
 
-Tidepool email is not being actively monitored by anyone, but because they are company resources that are managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage to protect both employee safety and wellbeing, as well as company property and interests.
+Tidepool email is not being actively monitored by anyone, but because it is a company resource that is managed according to company policy, you should not expect privacy. The company has both the ability and the right to look at employee usage to protect both employee safety and wellbeing, as well as company property and interests.
 
 Email messages, including attachments, sent and received from a Tidepool email address are the property of Tidepool. We reserve the right to access, monitor, read, and/or copy email messages at any time, for any reason. You should not expect privacy for any email you send using your Tidepool email, including messages that you consider to be personal or label with a designation such as “Personal” or “Private.”
 

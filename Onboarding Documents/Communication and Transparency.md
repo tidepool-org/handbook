@@ -16,7 +16,7 @@ This makes it easy to keep in the loop on projects and also keeps everyone at Ti
 
 ### Pro-active checkins and OOO-AFK
 
-Since we are highly distributed, it's our responsibility to let our teammates know when we're around and available. We have a Slack channel called "ooo-afk" for this purpose. It stands for "Out of Office, or Away from Keyboard."
+Since we are highly distributed, it's our responsibility to let our teammates know when we're around and available. We have a Slack channel called "ooo-afk" for this purpose. It stands for "Out of Office, or Away from Keyboard." We may also use Slack status messages for this purpose.
 
 **Doing this is as easy as posting a message in Slack to say when you drop in or leave.**
 
@@ -77,7 +77,7 @@ Not that who works for whom matters much...
 
 Since we value openness and transparency, you are as likely to get direction or feedback from Howard and Brandon as you are from one of your peers. We depend on that. **If you have feedback for someone, please just give it to them.** Be polite and honest. It's not a big deal, and they will appreciate it. As a general rule, if you have feedback for someone, it's your responsibility to give it to them directly - it's not OK to talk about someone else without also being willing to talk to them directly.
 
-**Always assume good intent** as you think about the feedback you would like to give someone. We are all in this together. Especially with remote teams, where we don't see each other in person as often, it can be especially challenging to pick up on nuances in communication style. Written communication in particular can be tricky. Go out of your way in your communication to think about how someome might interpret (or misinterpret) what you are saying.
+**Always assume good intent** as you think about the feedback you would like to give someone. We are all in this together. Especially with remote teams, where we don't see each other in person as often, it can be especially challenging to pick up on nuances in communication style. Written communication in particular can be tricky. Go out of your way in your communication to think about how someone might interpret (or misinterpret) what you are saying.
 
 Also be sure to thank and congratulate folks when you think they are doing great work, too. The more the better. Doing it in public, like at the Daily Standup or in Slack, is the best.
 

@@ -80,7 +80,7 @@ Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Jana Beck](https://github.com/jebeck)
 * [Jamie Bate](https://github.com/jh-bate)
 * [Lennart Goedhart](https://github.com/pazaan)
-* [Nick Riggall]
+* [Nick Riggall](http://nicholasriggall.com/)
 * [Paul Forgione](https://twitter.com/PaulForgione)
 
 We hope that many more people will suggest ways for us to improve these policies!

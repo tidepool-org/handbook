@@ -36,6 +36,7 @@ CEO of Tidepool
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
+* [Acknowledgement of Receipt of Changes](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Acknowledgement%20of%20Receipt%20of%20Changes.md)
 * [Tidepool Offer Letter](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Tidepool%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Handbook Introduction](https://github.com/tidepool-org/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)

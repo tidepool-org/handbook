@@ -70,18 +70,18 @@ CEO of Tidepool
 
 Here are the folks at Tidepool who reviewed and contributed to this handbook:
 * [Brandon Arbiter](https://twitter.com/pancreasingame)
-* [Chris McGee]
+* [Chris McGee](https://github.com/krystophv)
 * [Christopher Snider](https://twitter.com/iamspartacus)
-* [Clint Beacock]
-* [Darin Krauss]
-* [Eric Luhrs]
-* [Gerrit Niezen]
+* [Clint Beacock](https://github.com/cbwebdevelopment)
+* [Darin Krauss](https://github.com/darinkrauss)
+* [Eric Luhrs](https://twitter.com/EricLuhrs)
+* [Gerrit Niezen](https://github.com/gniezen)
 * [Howard Look](https://twitter.com/howardlook)
-* [Jana Beck]
-* [Jamie Bate]
-* [Lennart Goedhart]
+* [Jana Beck](https://github.com/jebeck)
+* [Jamie Bate](https://github.com/jh-bate)
+* [Lennart Goedhart](https://github.com/pazaan)
 * [Nick Riggall]
-* [Paul Forgione]
+* [Paul Forgione](https://twitter.com/PaulForgione)
 
 We hope that many more people will suggest ways for us to improve these policies!
 

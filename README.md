@@ -54,7 +54,7 @@ CEO of Tidepool
 
 ## Operations Documents
 * [Diversity and Sourcing Candidates](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Diversity%20and%20Sourcing%20Candidates.md)
-* [Effective Meetings] (https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
+* [Effective Meetings](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Interview Process](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 * [Finances](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Finances.md)
 * [Hack Weeks](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Hack%20Weeks.md)

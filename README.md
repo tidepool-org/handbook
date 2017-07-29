@@ -63,7 +63,6 @@ CEO of Tidepool
 * [Welcome to Tidepool](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Tidepool.md)
 * [Communication and Transparency](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 * [One on Ones](https://github.com/tidepool-org/handbook/blob/master/Onboarding%20Documents/One-on-Ones.md)
-* [Effective Meetings](https://github.com/tidepool-org/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 
 ***
 

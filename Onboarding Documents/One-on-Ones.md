@@ -10,7 +10,7 @@ One-on-ones should be a recurring calendar event, but the schedule is meant to b
 
 ## Agenda
 
-Agendas for different one-on-ones can vary widely, but this is the team member’s meeting, so they should have ultimate control. one-on-ones should be a mix of present problems/resolutions and future goals/plans. What is blocking today and how can it be resolved or worked around? What do you want the future to look like, and what are the concrete steps you’ll take to get there?
+Agendas for different one-on-ones can vary widely, but this is the team member’s meeting, so they should have ultimate control. One-on-ones should be a mix of present problems/resolutions and future goals/plans. What is blocking today and how can it be resolved or worked around? What do you want the future to look like, and what are the concrete steps you’ll take to get there?
 
 One-on-ones are also a good place to give and receive feedback. Talk about what’s working well and why it’s particularly effective. Ask what you can be doing better and where the team can improve.
 

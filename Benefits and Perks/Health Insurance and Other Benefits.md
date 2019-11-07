@@ -14,6 +14,8 @@ Our current medical plan is provided through Blue Shield of California:
     * Non-participating providers: $5,000 per individual / $10,000 per family
 * Lifetime Benefit Maximum: None
 
-Employees are also eligible to participate in a Flexible Spending Account (FSA). Tidepool will match contributions to the FSA dollor-for-dollar up to $2500.
+Employees are also eligible to participate in a Flexible Spending Account (FSA). Tidepool will match contributions to the FSA dollor-for-dollar up to $2700. Employees can also take advantage of a dependent and elder care FSA account that provides up to $5000 in funds at no cost to the employee.
 
-Employees may contribute to a 401(k) retirement savings plan. Tidepool currently does not offer contribution matching.
+Employees may contribute to a 401(k) retirement savings plan. Tidepool does not currently offer contribution matching.
+
+You can find detailed information about our benefits plans in [this internal google drive folder](https://drive.google.com/drive/folders/1E97pTweN00YHuDs-SldeBWPFT4xJFKTr).

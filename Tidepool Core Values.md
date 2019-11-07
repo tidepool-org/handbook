@@ -39,6 +39,8 @@ We have chosen to be a non-profit so that we can always prioritize the needs of 
 
 So that we can have the most impact within the diabetes community, we also generate revenue with the goal of being a self-sustainable non-profit.
 
+We seek input from all places: from each other, from users and non-users, from industry and academia. We solicit feedback from both experts and novices. We seek out alternate, challenging and critical points of view; this helps us understand and mitigate risks, and to improve our products.
+
 ## Fight the default of exclusion.
 
 Inequality and exclusion are the defaults of our industries (software development and medical devices). Without intentional effort, we will inherit those failings and worsen the problem. Building a diverse team is a moral imperative and we build a better business and product by bringing different perspectives to the table. We look for voices unlike our own because they are the only ones that help us grow.

@@ -10,9 +10,9 @@ An employee who wishes to take time off due to the death of an immediate family 
 
 ## Jury Duty or Witness Summons
 
-Tidepool encourages you to fulfill your civic duty.
+Tidepool encourages employees to fulfill their civic duties.
 
-Employees will be granted up to 5 days paid time to serve on a jury or as a witness.  In order to minimize disruption in the office, employees are requested to check in with the CEO when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.
+Employees will be granted up to 10 days paid time to serve on a jury or as a witness.  In order to minimize disruption in the office, employees are requested to check in with the CEO when jury duty or witness testimony lasts less than four hours per day and may be requested to work remotely.
 
 ## Other Leaves of Absence
 

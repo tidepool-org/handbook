@@ -22,4 +22,4 @@ Signature: ________________________
 
 
 You may digitally sign this acknowledgement using your Tidepool Google login and visiting this page in Google Drive:
-HR - Private Internal to Tidepool / Employee Handbook / Acknowledgement of Receipt of the Employee Handbook
+https://docs.google.com/document/d/1qq-ikILa6q-vvO0jPDhl0KMEYyylLBVr1O8XISe1hCA/edit#heading=h.4x5903lhf3pj

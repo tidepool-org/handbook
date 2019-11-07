@@ -31,6 +31,10 @@ Like our vacation non-policy, the guidance is: We trust you. There is no policy.
     <td>First Monday in September</td>
   </tr>
   <tr>
+     <td> World Diabetes Day
+     <td> November 14
+  </tr>
+  <tr>
     <td>Thanksgiving Day and Friday</td>
     <td>Fourth Thursday in November and following Friday</td>
   </tr>

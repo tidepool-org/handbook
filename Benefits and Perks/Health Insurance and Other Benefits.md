@@ -2,7 +2,7 @@
 
 The following applies to full-time U.S.-based employees.
 
-Tidepool's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance. Because of our mission, many of our employees have a personal connection to a chronic illness. Therefore, we strive to provide a full-featured health plan that mimimizes deductables and out-of-pocket expenses and avoids lifetime caps.
+Tidepool's priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance. Because of our mission, many of our employees have a personal connection to a chronic illness. Therefore, we strive to provide a full-featured health plan that minimizes deductibles and out-of-pocket expenses and avoids lifetime caps.
 
 We offer medical, dental, and vision coverage at Tidepool for full-time U.S.-based employees and their dependents. All full-time US employees receive Short Term Disability Insurance and Long Term Disability Insurance.
 

@@ -21,7 +21,7 @@ We believe that the best path to safety, efficacy, usability and functionality t
 
 ## Embrace regulations, and help improve them.
 
-We operate in a highly regulated space, including FDA, HIPAA, CE and other regulations. Wherever we can, we will interpret regulations in a way that is best for PwD safety and efficacy. We will engage early and often with regulators, and work with them to embrace modern software development techniques and processes.
+We operate in a highly regulated space, including [FDA](https://www.fda.gov/medical-devices), [HIPAA](https://www.hhs.gov/hipaa/index.html), [CE](https://ec.europa.eu/growth/single-market/european-standards/harmonised-standards/medical-devices_en) and other regulations. Wherever we can, we will interpret regulations in a way that is best for PwD safety and efficacy. We will engage early and often with regulators, and work with them to embrace modern software development techniques and processes.
 
 ## We don't have all of the answers.
 

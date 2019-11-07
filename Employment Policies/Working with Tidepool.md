@@ -34,7 +34,6 @@ Tidepool hires specialty consultants and firms to help with work in areas where 
 
 For example, Tidepool currently works with:
 * [DuffLite](http://dufflite.com) - our mobile development partner
-* [SJR Associates](http://sjrassoc.com) - Sheila Ramerman, our regulatory consultant
 * [Early Growth Financial Services](http://earlygrowthfinancialservices.com/) - Sirk Roh (CFO) and Tina Gregory (accountant)
 
 Contracts are administered individually with these Consultants. 
@@ -49,7 +48,7 @@ Interns receive their offer letters through Zenefits, and are paid hourly.
 
 Tidepool often engages with volunteers, most typically with software developers as Open Source contributors, but sometimes also with volunteer program managers, user experience designers or beta testers.
 
-Volunteers who are producing and contributing source code or user interface designs will be asked to complete Tidepool's [Volunteer Contributor License Agreement (VCLA)](http://developer.tidepool.io/contributors/).
+Volunteers who are producing and contributing source code or user interface designs will be asked to complete Tidepool's [Volunteer Contributor License Agreement (VCLA)](http://developer.tidepool.org/contributors/).
 
 ## Pro-bono arrangements
 

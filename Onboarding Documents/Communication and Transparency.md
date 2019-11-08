@@ -10,7 +10,7 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 We keep everyone up to date on what we are working on using Slack.
 
-We also meet briefly once our twice per week during our Standup meeting. At this meeting, you don't need to rehash everything that you've already put into Slack or Jira, you should just highlight issues that are notable, or any impediments or dependencies that you have. This makes it easy to keep in the loop on projects and also keeps everyone at Tidepool accountable to everyone else to do their part. Standup meeting notes can be found here in [Confluence Tidepool Internal / Standup Meeting Notes] (https://tidepool.atlassian.net/wiki/spaces/TI/pages/1638430/Standing+Meeting+Notes).
+We also meet briefly once our twice per week during our Standup meeting. At this meeting, you don't need to rehash everything that you've already put into Slack or Jira, you should just highlight issues that are notable, or any impediments or dependencies that you have. This makes it easy to keep in the loop on projects and also keeps everyone at Tidepool accountable to everyone else to do their part. Standup meeting notes can be found here in [Confluence Tidepool Internal / Standup Meeting Notes](https://tidepool.atlassian.net/wiki/spaces/TI/pages/1638430/Standing+Meeting+Notes).
 
 ### Narratives
 

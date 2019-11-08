@@ -34,3 +34,7 @@ All of our job openings and descriptions will be posted on tidepool.org/jobs, an
 Inbound applications give us the highest number of candidates that are outside of our personal networks, but also have the lowest initial filter because no one at Tidepool is making any judgment about the candidate before they enter our pipeline. Because of the light filter, it can be tempting to dismiss these candidates, but an inbound application is a strong signal that the candidates believe in what we’re doing at Tidepool. This means that a smaller percentage of candidates from a broader pool will progress through our interview funnel. Regardless, we still need to treat inbound applications with respect. 
 
 Every inbound application should receive a response from the Tidepool team within 3 days so that they feel heard and like they were able to reach us personally.
+
+## More Hiring Information
+More information about our hiring processes can be found here in [Confluence / Employee Resources / Hiring](https://tidepool.atlassian.net/wiki/spaces/TI/pages/40435716/Hiring).
+

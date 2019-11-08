@@ -2,7 +2,7 @@
 
 To increase flexibility in how and where employees at Tidepool work, we agree on a shared set of constraints for group work and meetings. 
 
-## Meeting Ettiquette
+## Meeting Etiquette
 
 ### Meetings start on time
 
@@ -14,7 +14,7 @@ All team members should make themselves available for face-to-face meetings betw
 
 ### Meetings should generally have a video option
 
-Tidepool is a highly distributed team. Most of our meeting happen online, often using Google Hangout. If you're hosting a meeting, please schedule it within Google Calendar and make sure it includes a Hangout link. 
+Tidepool is a highly distributed team. Most of our meeting happen online, often using Zoom. If you're hosting a meeting, please schedule it within Google Calendar and make sure it includes a video meeting link. 
 
 If you're attending a meeting remotely, please join the video call at or before the start time. It's your responsibility to ensure this is possible — this means being in a quiet place with a fast internet connection before the meeting starts. Calling into a meeting via phone or from a public place can be done occasionally if required, but please try to avoid it.
 

@@ -6,17 +6,19 @@ Transparency may seem like a passive process, like "don’t hide anything," but 
 
 ## Communication
 
-### Daily Standups and WorkingOn
+### Standups
 
-We keep everyone up to date on what we are working on using [WorkingOn](https://workingon.co). 
+We keep everyone up to date on what we are working on using Slack.
 
-We also meet briefly every day at our Daily Standup meeting. At this meeting, you don't need to rehash everything that you've already put into WorkingOn, you should just highlight issues that are notable, or any impediments or dependencies that you have.
+We also meet briefly once our twice per week during our Standup meeting. At this meeting, you don't need to rehash everything that you've already put into Slack or Jira, you should just highlight issues that are notable, or any impediments or dependencies that you have. This makes it easy to keep in the loop on projects and also keeps everyone at Tidepool accountable to everyone else to do their part. Standup meeting notes can be found here in [Confluence Tidepool Internal / Standup Meeting Notes] (https://tidepool.atlassian.net/wiki/spaces/TI/pages/1638430/Standing+Meeting+Notes).
 
-This makes it easy to keep in the loop on projects and also keeps everyone at Tidepool accountable to everyone else to do their part.
+### Narratives
 
-### Pro-active checkins and OOO-AFK
+We aren't big fans of slideware at Tidepool. Instead we use narratives as a way to document ideas, convey information or make decisions. [A narrative about narratives can be found here](https://docs.google.com/document/d/1OoGL8OiltnLrb4soV8fNDzGUyshlgW1yVgx4Mnz0SdY/edit). A table of narratives can be found here in [Confluence Tidepool Internal / Narratives](https://tidepool.atlassian.net/wiki/spaces/TI/pages/2916353/Narratives).
 
-Since we are highly distributed, it's our responsibility to let our teammates know when we're around and available. We have a Slack channel called "ooo-afk" for this purpose. It stands for "Out of Office, or Away from Keyboard." We may also use Slack status messages for this purpose.
+### Proactive check-ins and #ooo-afk
+
+Since we are highly distributed, it's our responsibility to let our teammates know when we're around and available. We have a Slack channel called #ooo-afk for this purpose. It stands for "Out of Office, or Away from Keyboard." We may also use Slack status messages for this purpose.
 
 **Doing this is as easy as posting a message in Slack to say when you drop in or leave.**
 
@@ -51,11 +53,10 @@ Not every ping or question needs to happen publicly, but when in question, you s
 
 Work calendars should be shared to make scheduling meetings really easy and also to let the rest of the team see where we’re spending our time. Personal calendars often have sensitive information, and should be kept separate. Work calendars are documentation of how we’re budgeting our hours and are useful for the rest of the team.
 
-There is also a Tidepool OOO calendar. If you are going to be out for more than a few hours, please mark it on the
+TThere is also a Tidepool OOO calendar. If you are going to be out for more than a few hours, please mark it on there. More information can be found on [Confluence Employee Resources / Supporting Tools](https://tidepool.atlassian.net/wiki/spaces/TI/pages/3440663/Supporting+Tools).
 
-A subscrition link to the Tidepool OOO Calendar can be found on the [Emp: Tidepool Resources](https://trello.com/b/0tbitS80/emp-tidepool-resources) Trello board.
 
-### Open Stats
+### Open Metrics
 
 When we measure something, it should be visible to everyone on the team. Our stats will be great sometimes and disappointing others, but when we hide or silo the hard stats, fewer people can help fix them. Any data that we’re collecting should be open to everyone.
 
@@ -69,7 +70,7 @@ Communication and negotiation among groups of people is difficult, but the more 
 
 At Tidepool, we're still tiny and we're not so big on org charts, so you won't fine one here.
 
-In general, everyone at Tidepool either reports to Howard or to Brandon. Folks working on QA and Customer Support report to Brandon, and everyone else (engineering and design) reports to Howard.
+In general, everyone at Tidepool either reports to Howard, Brandon or Tapani. If you aren't sure, just ask.
 
 ## Providing Feedback
 
@@ -81,6 +82,6 @@ Since we value openness and transparency, you are as likely to get direction or 
 
 Also be sure to thank and congratulate folks when you think they are doing great work, too. The more the better. Doing it in public, like at the Daily Standup or in Slack, is the best.
 
-If you are uncomfortable providing feedback to someone directly, please talk to Howard or Brandon about it.
+If you are uncomfortable providing feedback to someone directly, please talk to the CEO or a VP about it.
 
 We don't currently do any form of official performance review. Frankly we have yet to find a system that we think works better than "always share your feedback directly with people." Do it early, and often, and do it constructively.

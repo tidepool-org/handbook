@@ -17,7 +17,7 @@ Referrals from people who already work at Tidepool are one of the best signals w
 
 In order to get good referrals, everyone needs to know which positions are open, know how to start the recruiting process, have time to search their network, and feel aligned with the company's mission and priorities. We expect everyone to go through their online networks looking for and thinking about candidates. Employees will do initial outreach to interesting connection, which will give us a good space to talk about how we start the recruiting process.
 
-We do not offer referral bonuses. We feel that participating the recruiting process is a part of everyone's job and should not need additional incentives.
+We do not offer referral bonuses. We feel that participating in the recruiting process is a part of everyone's job and should not need additional incentives.
 
 **The danger with referrals is that we are most likely to refer candidates who are like us, which can result in a homogenous team instead of the diverse one we want to create.** We should emphasize diversity as a priority in our referral lunches and also search the local networks we are involved in. We should also continue to look for other ways to offset this bias on an organizational level.
 
@@ -34,3 +34,6 @@ All of our job openings and descriptions will be posted on tidepool.org/jobs, an
 Inbound applications give us the highest number of candidates that are outside of our personal networks, but also have the lowest initial filter because no one at Tidepool is making any judgment about the candidate before they enter our pipeline. Because of the light filter, it can be tempting to dismiss these candidates, but an inbound application is a strong signal that the candidates believe in what we’re doing at Tidepool. This means that a smaller percentage of candidates from a broader pool will progress through our interview funnel. Regardless, we still need to treat inbound applications with respect. 
 
 Every inbound application should receive a response from the Tidepool team within 3 days so that they feel heard and like they were able to reach us personally.
+
+## More Hiring Information
+More information about our hiring processes can be found here in [Confluence / Employee Resources / Hiring](https://tidepool.atlassian.net/wiki/spaces/TI/pages/40435716/Hiring).

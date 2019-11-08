@@ -1,3 +1,5 @@
+(Hack Weeks never really worked out well... This document is obsolete, and we are considering alternatives.)
+
 # Hack Weeks
 
 Approximately once per quarter, we will hold a one week long Hack Week. We stop working on our normal projects and create small teams to work on little projects that we are excited about and can finish in a week. Anyone can propose a project, and there are no rules about what is allowed to be worked on except that it should be related to Tidepool's mission. Every employee decides what they want to work on, so projects that require more than one person also need to convince other employees to work with them. Anyone can work on a project solo, but teams are encouraged. As much as possible, teams should be cross-organizational to give people a chance to work with folks who they don’t work with on a daily basis.

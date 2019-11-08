@@ -2,7 +2,7 @@
 
 Hey! Welcome to the Tidepool team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Tidepool works and how we work together.
 
-At Tidepool, we’re trying to build an inclusive, mission- and value-driven organization, so you’ll find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Tidepool handbook!).  
+At Tidepool, we’re trying to build an inclusive, mission- and value-driven organization, so you may find that a lot of our policies differ from the norm at other companies. If you have any questions about why we do things a certain way, or have a suggestion about how we can do anything better, please let us know (or just write comments in the documents -- you should already have comment access to everything in the Tidepool handbook!).  
 
 ## Your First Day
 
@@ -42,7 +42,7 @@ We want you to stick around. Your successes here will be your team’s successes
 
 **Tidepool isn’t a normal medical software company.** Medical device and software companies are traditionally closed and inaccessible. At Tidepool, we're working to make software that helps people living with diabetes, and to do so in a way that is open and free (in every sense of the word).
 
-We're a non-profit, which simply put means we aren't in this for the money. We're doing this because We're open source, because we want the technology we create to be freely available and to catalyze even further innovation. (You can read more about why we are open source and non-profit in this blog post.)
+We're a non-profit, which simply put means we aren't in this for the money. We're doing this because We're open source, because we want the technology we create to be freely available and to catalyze even further innovation. ([You can read more about why we are open source and non-profit in this blog post](https://tidepool.org/why-tidepool-is-open-and-non-profit/).)
 
 Even as a tiny company, we've already had a tremendous impact on the diabetes community. We've convinced device companies that PwD's own their own data. We've shown the power of great design to help PwDs and care gives gain great insights into that data. We've give PwD's a way to donate their data to help catalyze research an innovation. We've even been recognized by the White House for being a "Champion of Change."
 

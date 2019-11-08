@@ -1,12 +1,14 @@
 # One-on-Ones
 
-At least once per month, but more if you want, every member of the Tidepool team should meet with Howard in an open ended meeting that lasts at least thirty minutes. The agenda for the one-on-one is set by the employee and its primary intention is to build a trusting, ongoing relationship. This is not a status check-up or performance evaluation, it’s dedicated time where Howard is available to hear what each member of the team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.
+About once per month, but more or less if you want, every member of the Tidepool team should meet with Howard in an open ended meeting that lasts about thirty minutes. The agenda for the one-on-one is set by the employee and its primary intention is to build a trusting, ongoing relationship. This is not a status check-up or performance evaluation, it’s dedicated time where Howard is available to hear what each member of the team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement. 
 
-In addition, if employees work for another manager, like Brandon, they should also set up time to meet regularly.
+In addition, if employees work for another manager, like Brandon or Tapani, they should also set up time to meet regularly.
 
 ## Scheduling
 
 One-on-ones should be a recurring calendar event, but the schedule is meant to be regular, not rigid. The meeting can be moved if another event is happening at the same time or if the team member feels like they need more time on a given week. The important thing is that the meeting happen.
+
+Howard has 1 on 1 appointment slots on his calendar for this. Please use them!
 
 ## Agenda
 

@@ -1,3 +1,11 @@
+# About this repository
+
+Tidepool's Employee Handbook was, and is, a labor of love. It has served us well in this GitHub repository for many, many, years. But as times have changed and we have grown, we have added a number of processes, people, and culture changes needed to support our growth. One of those changes involves moving our Employee Handbook out of this repository to a new public Confluence space.
+
+In time, we will update this space with current content based on the reorganization of our employee resources treating the Employee Handbook in Confluence as our source of truth. For the time being, anyone is welcome to fork this repository to serve as a foundation for your own needs. Just know that unless clearly stated, this content is a bit outdated for Tidepool.
+
+To review our latest policies, please see [Tidepool's Employee Handbook in this Public Confluence Space](https://tidepool.atlassian.net/wiki/spaces/HANDBOOK/overview).
+
 # Our Handbook
 
 First, a thank you. This Tidepool Employee Handbook is a derivative of the [Clef Employee Handbook](https://github.com/clef/handbook/). Although Clef no longer exists (sniff, sniff, we loved Clef), the fine folks at Clef made their handbook available to all via a Creative Commons license, and for that we are very thankful.

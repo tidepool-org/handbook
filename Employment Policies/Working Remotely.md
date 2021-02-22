@@ -2,15 +2,15 @@
 
 ## Overall Philosophy
 
-Tidepool is a highly distributed team, and we embrace remote work. We currently have employees living in 5 states in the U.S. (California, Georgia, New York, North Carolina and Pennsylvania) and in 5 countries worldwide (Australia, Canada, New Zealand, United Kingdom and United States). While working remotely can be a challenge, we do our best to make it effective. Here are some of the things we do:
+Tidepool is a highly distributed team, and we embrace remote work. We currently have employees living in 19 states in the U.S. (California, Georgia, New York, North Carolina, Pennsylvania, Arkansas, Colorado, Florida, Illinois, Indiana, Massachusetts, Minnesota, Missouri, New Hampshire, Ohio, Oregon, Texas, Utah, and Washington) and in 8 countries worldwide (Australia, Canada, New Zealand, United Kingdom, Bulgaria, Croatia, Nigeria and United States). While working remotely can be a challenge, we do our best to make it effective. Here are some of the things we do:
 
-## Daily Scrum Standup
+## Daily Scrum Standups
 
-On Mondays through Thursdays we hold a short "standup" meeting where we report on work we are doing and any impediments. This typically takes place at 8pm or 9pm UTC, and adjusts based on regional Daylight Saving changes. (See “Time-zone Sensitivity” below.)
+On Mondays through Thursdays project teams may hold short "standup" meetings where we report on work we are doing and any impediments. These typically take place during mutually agreed hours for the team members, and adjusts based on regional Daylight Saving changes. (See “Time-zone Sensitivity” below.)
 
-## Weekly All Hands
+## Bi-Weekly All Hands
 
-We hold a weekly virtual All Hands meeting where we talk about the highlights from the prior week. This typically takes place Wednesdays at 8pm or 9pm UTC, and adjusts based on regional Daylight Saving changes. (See “Time-zone Sensitivity” below.)
+We hold a bi-weekly virtual All Hands meeting where we talk about the highlights from the prior two weeks. This typically takes place Tuesdays at 8pm or 9pm UTC, and adjusts based on regional Daylight Saving changes. (See “Time-zone Sensitivity” below.)
 
 ## Slack
 
@@ -22,11 +22,7 @@ The external Slack instance is used for communication with our users and the ope
 
 ## In-person Offsites
 
-We get together at least twice per year in person for a whole week to work, reflect on the past 6-9 months, strategize and plan the next 6-9 months. We typically rent a house (or two) and try to work in something fun like hiking, biking or kayaking. Past locations have included Santa Cruz, Palo Alto, Mountain View, Sunnyvale, and Fall River Mills, California.
-
-## Working-On
-
-We use WorkingOn.co to keep everyone on the team informed about what we are working on during the day.
+We get together at least twice per year in person for a whole week to work, reflect on the past 6-9 months, strategize and plan the next 6-9 months. We also try to work in some fun team-building events like hiking, biking or kayaking. Past locations have included Santa Cruz, Palo Alto, Mountain View, Sunnyvale, and Fall River Mills, California.
 
 ## Time-zone Sensitivity
 
